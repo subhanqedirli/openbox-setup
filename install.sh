@@ -1,6 +1,5 @@
 #!/usr/bin/bash
 
-
 # Install X11 & Openbox
 
 sudo dnf install xorg xinit openbox
